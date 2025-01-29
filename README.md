@@ -1,4 +1,4 @@
-# # <div align="center">Pytorch Learn</div>
+# <div align="center">Pytorch Learn</div>
 Create this repository to learn pytorch. Here have two parts, first create some complex dependency dataset and second, implement a pytorch model, train this dataset
 
 ---
@@ -28,7 +28,7 @@ You can create a dataset using the 'datacreate.py' script provided in this repos
 
 ```python
 
-python3 python3 datacreate.py --name var4.csv --var 4 --max_value 2 --size 2000
+python3 datacreate.py --name var4.csv --var 4 --max_value 2 --size 2000
 
 ``` 
 
